@@ -1,18 +1,9 @@
-//
-//  main.cpp
-//  Tugas DASPRO - 1
-//
-//  Created by Mas Atfal on 19/09/25.
-//
-
 #include <iostream>
 
 using namespace std;
 
-int main(int argc, const char *argv[])
+int main()
 {
-    //    cout<<"Hello World\n";
-
     string nama = "MUCHAMMAD ATHFAL";
     string nim = "A18.2025.00213";
     int umur = 20;
